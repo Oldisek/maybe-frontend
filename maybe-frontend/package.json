@@ -1,0 +1,36 @@
+{
+  "name": "maybe-frontend",
+  "displayName": "Maybe FrontEnd?",
+  "description": "A collection of useful extensions for web development",
+  "publisher": "Oldisek",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "pranaygp.vscode-css-peek",
+    "dbaeumer.vscode-eslint",
+    "GitHub.vscode-pull-request-github",
+    "formulahendry.auto-close-tag",
+    "redwan-hossain.auto-rename-tag-clone",
+    "yandeu.five-server",
+    "naumovs.color-highlight",
+    "cweijan.vscode-database-client2",
+    "GitHub.github-vscode-theme",
+    "abusaidm.html-snippets",
+    "be5invis.vscode-icontheme-material",
+    "yzhang.markdown-all-in-one",
+    "antfu.browse-lite",
+    "DavidAnson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "redhat.vscode-xml",
+    "DEVSENSE.phptools-vscode",
+    "kisstkondoros.vscode-gutter-preview",
+    "Kelvin.vscode-sshfs"
+  ]
+}
