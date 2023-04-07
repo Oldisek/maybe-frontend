@@ -3,8 +3,12 @@
   "displayName": "Maybe FrontEnd?",
   "description": "A collection of useful extensions for web development",
   "publisher": "Oldisek",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oldisek/maybe-frontend.git"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
